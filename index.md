@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/aidanvanleuven/aidanvanleuven.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an aspiring web developer/software engineer/programmer located in Boise, ID.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Third-year computer science student at Boise State University.
 
-### Markdown
+I specialize in HTML, CSS, Javascript, jQuery, and Node.js. I also have experience working with nginx, and I love finding ways to squeeze out every bit of performance possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Code Examples
 
-```markdown
-Syntax highlighted code block
+Here are some of the projects I've done, mostly using web technologies. All examples are hosted here on my website. First proxied through Cloudflare, and then reverse-proxied through nginx to be served through Node.js. All pages are served with full SSL encryption. The calendar and ISC demos use websockets for instant updates.
 
-# Header 1
-## Header 2
-### Header 3
+To login to the ISC management demo, use pin "1234".
 
-- Bulleted
-- List
+[Poll Generator](https://poll.aidanvanleuven.com/)
 
-1. Numbered
-2. List
+[Calendar App](https://calendar.aidanvanleuven.com/) | [Source](https://github.com/aidanvanleuven/CalendarWebApp)
 
-**Bold** and _Italic_ and `Code` text
+["In Store Credit" Management](https://sc.aidanvanleuven.com/)
 
-[Link](url) and ![Image](src)
-```
+[Simple Game](https://phaser.aidanvanleuven.com/) | [Source](https://github.com/aidanvanleuven/Phaser-Game)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
+[LinkedIn](https://www.linkedin.com/in/aidanvanleuven/)
 
-### Jekyll Themes
+[Github](https://github.com/aidanvanleuven)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidanvanleuven/aidanvanleuven.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
